@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    Computer Science undergraduate · Systems and tools enthusiast · EEG + ML tinkerer
+    Incoming MS CS Student · AI & EEG Researcher · Systems & Web Developer
   </samp>
 </p>
 
@@ -19,58 +19,56 @@
   <a href="https://www.linkedin.com/in/aaron-alymann-jeyaraj-277aa2243/">
     <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Alymann%20Jeyaraj-blue?style=flat-square" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Location-Wisconsin%2C%20USA-green?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-purple?style=flat-square" alt="Degree">
+  <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-green?style=flat-square" alt="Location">[cite: 3]
+  <img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-purple?style=flat-square" alt="Degree">[cite: 3]
 </p>
 
 ---
 
 ## 🧑‍💻 About me
 
-I am a Computer Science student with a Maths minor, currently at the University of Wisconsin–La Crosse (expected graduation Dec 2025).  
+I am an incoming MS Computer Science student (Fall 2026) and a recent BSc Computer Science graduate (with a Mathematics minor) from the University of Wisconsin La Crosse[cite: 3]. 
 
-I like working close to the metal and close to the data:
+I like working close to the metal and close to the data, balancing my time between clinical research, systems engineering, and practical development:
 
-- writing and debugging compiler front ends in C (scanners, parsers, symbol tables)
-- building small but complete tools in Java, Python and JavaScript
-- experimenting with EEG data, convolutional neural networks and biometric authentication
+- Building preprocessing pipelines and Convolutional Neural Networks for multi-channel EEG signals[cite: 3].
+- Developing internal web tools and database-backed interfaces using modern web technologies[cite: 3].
+- Writing and debugging compiler front ends in C using Flex and Bison[cite: 3].
+- Instructing and mentoring students, drawing on two years of experience as a CS Tutor and Teaching Assistant for Discrete Mathematics[cite: 3].
 
-I enjoy taking vague specifications or noisy signals and turning them into well structured, documented systems that other people can understand and extend.
+I enjoy taking vague specifications or noisy signals and turning them into well-structured, documented systems that other people can understand and extend.
 
 ---
 
 ## 🚀 What I am working on
 
-- 🧠 **EEG biometric authentication research**  
-  CNN based classification on multi channel EEG data, including preprocessing, template generation and subject level evaluation.
+- 🧠 **Clinical EEG & Gait Analysis Research**  
+  Investigating neural correlates of motor dysfunction in Parkinson's Disease[cite: 3]. Designing preprocessing pipelines for EEG data and integrating them with biomechanical gait metrics[cite: 3].
 
-- 🛠 **Compiler construction practice**  
-  C projects focused on lexical analysis, parsing and symbol table management for a C like language.
+- 🌐 **Full-Stack Web Development**  
+  Developing database-backed web interfaces and internal applications to improve usability and data entry workflows[cite: 3]. 
 
-- 🌐 **Web applications and dashboards**  
-  Lightweight Node.js and vanilla JS projects, including a weather dashboard and various practice web apps.
+- 🛠 **Compiler Construction & Systems Administration**  
+  Implementing semantic checks, lexical analysis, and symbol table management for C-like languages[cite: 3]. Maintaining IT systems, network configurations, and security protocols[cite: 3].
 
 ---
 
 ## 📂 Featured repositories
 
-> A few repos that represent what I enjoy working on.
+> A selection of projects representing my work in machine learning, systems, and web development.
 
 - 🔐 **SummerDDF2025**  
-  MATLAB code for EEG based biometric verification  
-  `EEG preprocessing · CNN models · evaluation scripts`
+  MATLAB code for an EEG Biometric Authentication System[cite: 3]. Designed CNN-based classifiers achieving 88% subject-level accuracy across 21 participants[cite: 3].  
+  `MATLAB · CNNs · Signal Processing · Cross-validation`[cite: 3]
 
-- 🌦 **Summer-2025-Weather-Dashboard**  
-  Single page weather dashboard in HTML, CSS and JavaScript  
-  `API calls · DOM manipulation · responsive layout`
+- 🧾 **C-Like-Compiler-Front-End**  
+  Implemented lexical analysis and parsing for a C-like language[cite: 3]. Built a hash-based symbol table for identifier tracking and scope management[cite: 3].  
+  `C · Flex · Bison · Symbol Tables`[cite: 3]
 
-- 🧾 **Compiler-Practice**  
-  C based exercises in scanning, parsing and symbol tables  
-  `lex/yacc style workflows · symbol table design`
-
-- 🧪 **Cryptography-Practice**  
-  MATLAB experiments with visible and invisible image watermarking  
-  `image processing · robustness vs quality`
+- 🌐 **YMCA-Registration-System**  
+  Developed a role-based web system supporting staff and member workflows[cite: 3]. Implemented administrative tools for programme scheduling and management[cite: 3].  
+  `Node.js · Express · SQLite · REST APIs`[cite: 3]
 
 - 🌱 **WebDev-Practice**  
-  Small web projects focused on
+  Private repository containing varied practice projects and web development workflows[cite: 3].  
+  `JavaScript · DOM Manipulation · Responsive Design`
